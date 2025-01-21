@@ -2,7 +2,8 @@
 
 # 👋 Welcome to My LinkedIn Profile!  
 
-I am passionate about creating innovative solutions that improve lives. In today’s fast-paced technological landscape, change is inevitable, and I am driven to be a leader in that transformation. The question is no longer **"Can we do it?"**—but rather, **"When?"**  
+I am passionate about creating innovative solutions that improve lives. In today’s fast-paced technological landscape, change is inevitable, and I am driven to be a leader in that transformation. 
+The question is no longer **"Can we do it?"**—but rather, **"When?"**  
 
 ---
 
@@ -32,10 +33,9 @@ I am passionate about creating innovative solutions that improve lives. In today
 ---
 
 ## 🤝 **Let’s Connect**
-📧 **Email:** [Your Email Address](manebamol@gmail.com)
-🔗 **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/amolbmane/)  
+📧 **Email:** [Email](manebamol@gmail.com)
+🔗 **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/amolbmane/)  
 
 ---
 
-_"The question is no longer 'Can we do it?'—but rather, 'When?'"_
 
